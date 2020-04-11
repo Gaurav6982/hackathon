@@ -1,3 +1,8 @@
+<h4>Instructions to run</h4>
+<p>run php artisan key:generate</p>
+<p>run php artisan migrate</p>
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
